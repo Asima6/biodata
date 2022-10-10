@@ -1,0 +1,4 @@
+Nim          : 12210115
+Nama         : Asima Rodame Tampubolon
+Alamat       : Bandar Agung Village2  
+Progam studi : Sistem Informasi (SI)
